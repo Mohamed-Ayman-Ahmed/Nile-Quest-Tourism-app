@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "574525399129",
+    "project_id": "nile-quest-7d381",
+    "storage_bucket": "nile-quest-7d381.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574525399129:android:002b6c322b1ef3394c1148",
+        "android_client_info": {
+          "package_name": "com.example.nile_quest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574525399129-j5pkq0qutsf2faig4lf1lqdkn7kcaib3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nile_quest",
+            "certificate_hash": "433709ba85f4b11bab6014a0bf3cbcf53a510e7f"
+          }
+        },
+        {
+          "client_id": "574525399129-lqsou847klu1gdcmnha0k93nuee8fuv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSq9gLC3Q-8UNK_iPmA6M4IlPsHkaNM0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574525399129-1o0708fqtj9rru3pr5qsjmimlsar66nb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "574525399129-blut76ul66sjp9ookvpensd3de5htr32.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nileQuest.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

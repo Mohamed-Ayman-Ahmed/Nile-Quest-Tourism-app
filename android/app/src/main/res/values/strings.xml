@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nile Quest</string>
+    <string name="facebook_app_id">378579658323754</string>
+    <string name="fb_login_protocol_scheme">fb51f538412d9c2d48a9852942658a6bb4</string>
+</resources>
